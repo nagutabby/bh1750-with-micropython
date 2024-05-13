@@ -20,7 +20,7 @@ def main():
 
         raw_lux = (read_buffer[0] << 8 | read_buffer[1])
         lux = round(raw_lux / 1.2, 1)
-        print(f"Lux: {lux}")
+        print(f"Illuminance: {lux} lx")
 
         time.sleep_ms(500)
 

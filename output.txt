@@ -1,26 +1,27 @@
-Lux: 50.0
-Lux: 41.7
-Lux: 42.5
-Lux: 43.3
-Lux: 44.2
-Lux: 46.7
-Lux: 47.5
-Lux: 47.5
-Lux: 46.7
-Lux: 46.7
-Lux: 45.8
-Lux: 45.8
-Lux: 45.8
-Lux: 46.7
-Lux: 46.7
-Lux: 47.5
-Lux: 46.7
-Lux: 46.7
-Lux: 46.7
-Lux: 46.7
-Lux: 46.7
-Lux: 45.8
-Lux: 47.5
-Lux: 55.8
-Lux: 57.5
-Lux: 57.5
+Illuminance: 55.0 lx
+Illuminance: 56.7 lx
+Illuminance: 48.3 lx
+Illuminance: 36.7 lx
+Illuminance: 40.0 lx
+Illuminance: 38.3 lx
+Illuminance: 39.2 lx
+Illuminance: 39.2 lx
+Illuminance: 41.7 lx
+Illuminance: 43.3 lx
+Illuminance: 46.7 lx
+Illuminance: 46.7 lx
+Illuminance: 45.0 lx
+Illuminance: 43.3 lx
+Illuminance: 40.8 lx
+Illuminance: 38.3 lx
+Illuminance: 39.2 lx
+Illuminance: 38.3 lx
+Illuminance: 39.2 lx
+Illuminance: 39.2 lx
+Illuminance: 39.2 lx
+Illuminance: 39.2 lx
+Illuminance: 39.2 lx
+Illuminance: 39.2 lx
+Illuminance: 38.3 lx
+Illuminance: 38.3 lx
+Illuminance: 38.3 lx
